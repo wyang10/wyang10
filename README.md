@@ -51,11 +51,11 @@ and contributed to the design of ML feature extraction pipelines.
 
 ## Featured Projects 👨‍💻
 
-### 🔷 airflow_dbt_demo  
+### 🔷 [airflow_dbt_demo](https://github.com/wyang10/airflow_dbt_demo.git)   
 A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations**.  
 Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
 
-### 🔷 Macro-Market-Intelligence-Pipeline  
+### 🔷 [Macro-Market-Intelligence-Pipeline](https://github.com/wyang10/Macro-Market-Intelligence-Pipeline.git)  
 Automates the collection and analysis of macroeconomic signals  
 (VIX, DXY, UST10Y, EDGAR filings) and generates weekly Markdown/HTML reports.
 
