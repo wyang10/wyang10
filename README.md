@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ## How I work / What I enjoy 👯
 - Designing modular, testable pipelines that are easy to operate and debug.
 - Choosing trade-offs that optimize for team velocity, observability, and cloud spend.
-- Mentoring teammates on data modeling, pipeline testing, and operational best practices.
+- Working with teammates on data modeling, pipeline testing, and operational best practices.
 
 ---
 
