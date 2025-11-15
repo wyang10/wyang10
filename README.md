@@ -17,22 +17,23 @@ Here are some ideas to get you started:
 
 # About Me 🌱 
 
-🎯 I'm a cloud Data Engineer specializing in building scalable, cost-efficient Lakehouse architectures and production-grade ELT pipelines. I design reliable batch & streaming systems that turn messy data into trusted analytics and ML-ready datasets.
+🎯 I'm a Cloud Data Engineer specializing in building scalable, cost-efficient Lakehouse architectures and production-grade ELT pipelines. I design reliable batch & streaming systems that turn messy data into trusted analytics and ML-ready datasets.
 
 ---
 
 ## Quick pitch 💬
--  🎓 Graduated: MSCS at Northeastern University (Jan 2022 – Dec 2024)  
--  🔭 Learning: advanced streaming patterns, cloud-native ETL optimizations  
--  🔹 Focus: Airflow + dbt orchestration, Spark (PySpark) performance, data quality with Great Expectations  
+-  🎓 Graduated: MSCS at Northeastern University (Jan 2022 – Dec 2024)
+-  🔹 Focus: Cloud-Native Data Engineering - streaming systems (Kafka/Flink), orchestration (Airflow/Dagster)
 -  🔗 Contact: wyang10 (GitHub)  • www.github.com/wyang10   • www.linkedin.com/in/awhy
 
 ---
 
 ## Highlights 💡
-- Built a production ELT & Data Quality Framework combining Airflow, dbt, and Great Expectations for automated, auditable orchestration.
-- Hands-on with cloud data platforms across AWS & GCP — designed solutions balancing reliability, latency, and cost.
-- Experienced in both batch and streaming ETL using Spark, Kafka, and Dataflow/EMR.
+- End-to-End Cloud Data Systems（Airflow, dbt, Snowflake, BigQuery, Terraform）
+- Advanced Streaming Architecture（Kafka/Flink, stateful streaming, exactly-once semantics）
+- Distributed Systems for Data Engineering（idempotency, back-pressure, partitioning）
+- Large-Scale ETL/ELT Optimization（incremental models, orchestration patterns）
+- Feature Engineering Systems（feature pipelines, online/offline store design）
 
 ---
 
@@ -48,11 +49,13 @@ Here are some ideas to get you started:
 ## Featured Projects 👨‍💻
 
 - [airflow_dbt_damo](https://github.com/wyang10/airflow_dbt_demo.git) 
-  — ELT & Data Quality Framework combining Airflow + dbt + Great Expectations, production-ready orchestration for reproducible, turning manual workflows into an automated, auditable orchestration system.
+  — A production-ready ELT & Data Quality Framework, combining Airflow + dbt + Great Expectations.
+  — Orchestration for reproducible, turning manual workflows into an automated, auditable orchestration system. 
 
 - [Macro-Market-Intelligence-Pipeline](https://github.com/wyang10/Macro-Market-Intelligence-Pipeline.git)
-  — Automates the process of collecting, analyzing, and summarizing macroeconomic signals from multiple data sources — including EDGAR filings, and public macro indicators (VIX, DXY, UST10Y).It produces a weekly Markdown + HTML report featuring an AI-generated “Executive Summary 2.0,” which compresses market data into one-line macro insights.
-
+  — Automates the process of collecting, analyzing, and summarizing macroeconomic signals from multiple data sources
+  — including EDGAR filings, and public macro indicators (VIX, DXY, UST10Y). It produces a weekly Markdown + HTML report.
+  
 ---
 
 ## How I work / What I enjoy 👯
@@ -80,3 +83,5 @@ Here are some ideas to get you started:
 - Great Expectations, dbt tests, automated lineage & monitoring
 
 ---
+
+## 😄 Thanks for stopping by! 👋
