@@ -1,4 +1,4 @@
-## Hi there 👋 I am Audrey, a Data Engineer.
+## Hi there 👋 I am Audrey, a Cloud Data Engineer.
 
 <!--
 **wyang10/wyang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-I'm a Data Engineer specializing in building scalable, cost-efficient Lakehouse architectures and production-grade ELT pipelines. I design reliable batch & streaming systems that turn messy data into trusted analytics and ML-ready datasets.
+I'm a cloud Data Engineer specializing in building scalable, cost-efficient Lakehouse architectures and production-grade ELT pipelines. I design reliable batch & streaming systems that turn messy data into trusted analytics and ML-ready datasets.
 
 ---
 
