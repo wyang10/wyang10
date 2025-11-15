@@ -46,11 +46,9 @@ I'm a Data Engineer specializing in building scalable, cost-efficient Lakehouse 
 ---
 
 ## Featured Projects
-- ELT & Data Quality Framework — Airflow + dbt + Great Expectations  
-  Production-ready orchestration for reproducible, auditable data pipelines.
 
 - ![airflow_dbt_damo](https://github.com/wyang10/airflow_dbt_demo.git) 
-  — A production-grade ELT & Data Quality Framework combining Airflow + dbt + Great Expectations, turning manual workflows into an automated, auditable orchestration system.
+  — ELT & Data Quality Framework combining Airflow + dbt + Great Expectations, production-ready orchestration for reproducible, turning manual workflows into an automated, auditable orchestration system.
 
 - ![Macro-Market-Intelligence-Pipeline](https://github.com/wyang10/Macro-Market-Intelligence-Pipeline.git)
   — Automates the process of collecting, analyzing, and summarizing macroeconomic signals from multiple data sources — including EDGAR filings, and public macro indicators (VIX, DXY, UST10Y).It produces a weekly Markdown + HTML report featuring an AI-generated “Executive Summary 2.0,” which compresses market data into one-line macro insights.
