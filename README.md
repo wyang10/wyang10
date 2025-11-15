@@ -1,4 +1,4 @@
-## Hi there 👋 I am Audrey Yang (wyang10) — Data Engineer
+## Hi there 👋 I am Audrey, a Data Engineer.
 
 <!--
 **wyang10/wyang10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
