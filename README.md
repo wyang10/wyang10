@@ -55,9 +55,9 @@ and contributed to the design of ML feature extraction pipelines.
 A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations**.  
 Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
 
-### 🔷 [Macro-Market-Intelligence-Pipeline](https://github.com/wyang10/Macro-Market-Intelligence-Pipeline.git)  
-Automates the collection and analysis of macroeconomic signals  
-(VIX, DXY, UST10Y, EDGAR filings) and generates weekly Markdown/HTML reports.
+### 🔷 [Smote-Heart-Attack-ML](https://github.com/wyang10/Smote-Heart-Attack-ML.git)
+A reproducible ML system from end-to-end data ingestion, feature engineering, model comparison, SMOTE-based imbalance correction, and CLI-driven training & evaluation workflows.
+Go from raw CSV → cleaned features → baseline models → reproducible CLI pipeline, with optional SMOTE to address severe class imbalance.
 
 ---
 
