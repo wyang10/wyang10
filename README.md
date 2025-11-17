@@ -52,11 +52,11 @@ and contributed to the design of ML feature extraction pipelines.
 ## Featured Projects 👨‍💻
 
 ### 🔷 [airflow_dbt_demo](https://github.com/wyang10/airflow_dbt_demo.git)   
-A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations**.  
+A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations + CICD**.  
 Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
 
 ### 🔷 [Smote-Heart-Attack-ML](https://github.com/wyang10/Smote-Heart-Attack-ML.git)
-A reproducible ML system from end-to-end data ingestion, feature engineering, model comparison, SMOTE-based imbalance correction, and CLI-driven training & evaluation workflows.
+End-to-End, Reproducible ML Pipeline Engineered a modular, production-style ML system for predicting in-hospital mortality.
 Go from raw CSV → cleaned features → baseline models → reproducible CLI pipeline, with optional SMOTE to address severe class imbalance.
 
 ---
