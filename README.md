@@ -51,13 +51,23 @@ and contributed to the design of ML feature extraction pipelines.
 
 ## Featured Projects 👨‍💻
 
-### 🔷 [airflow_dbt_demo](https://github.com/wyang10/airflow_dbt_demo.git)   
-A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations + CICD**.  
-Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
+### 🔷 [AWS Serverless ELT Pipeline — v2.0 (Enterprise-ready)](https://github.com/wyang10/AWS-Serverless-ELT-Pipeline-Enterprise.git)
+- Orchestration: EventBridge → Step Functions → Glue Job + optional Great Expectations gate.
+- Catalog / Query: Glue Data Catalog + Crawler + Athena tables for silver/ Parquet.
+- Replay / Recovery: replay & dlq-redrive scripts for backfill and poison-message recovery.
+- Idempotency: DynamoDB TTL for object-level dedup, optional GSI for audit.
+- CI/CD: GitHub Actions pipelines (Lambda build+deploy, Terraform plan+apply).
+  
 
 ### 🔷 [Smote-Heart-Attack-ML](https://github.com/wyang10/Smote-Heart-Attack-ML.git)
-End-to-End, Reproducible ML Pipeline Engineered a modular, production-style ML system for predicting in-hospital mortality.
-Go from raw CSV → cleaned features → baseline models → reproducible CLI pipeline, with optional SMOTE to address severe class imbalance.
+- End-to-End, Reproducible ML Pipeline Engineered a modular, production-style ML system for predicting in-hospital mortality.
+- Go from raw CSV → cleaned features → baseline models → reproducible CLI pipeline, with optional SMOTE to address severe class imbalance.
+
+
+### 🔷 [airflow_dbt_demo](https://github.com/wyang10/airflow_dbt_demo.git)   
+- A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations + CICD**.  
+- Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
+
 
 ---
 
