@@ -85,11 +85,11 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 Python (Pandas, PySpark) • SQL • Java • Bash  
 
 **Cloud & Orchestration**  
-GCP (BigQuery, Dataflow) • AWS (S3, EMR, Glue, Lambda, IAM, Step functions)   
+GCP (BigQuery, Dataflow) • AWS (S3, EMR, Glue, Lambda, SQS, Step functions, IAM)   
 GitHub Actions • Airflow • dbt • Docker • Kubernetes • Terraform  
 
 **Big Data & Storage**  
-Spark • Kafka • Flink • Databricks • Delta Lake 
+Spark • Kafka • Flink • Databricks • Delta Lake       
 Snowflake • Parquet • SCD Type2 • dimensional modeling  
 
 **Data Quality & CI/CD**  
