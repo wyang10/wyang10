@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi there 👋 I’m Audrey~ 🚀
 
 # About Me 🌱
-I'm a Cloud Data Engineer focused on building scalable, reliable, and cost-efficient cloud data platforms.  
+I'm a Cloud Data Engineer building scalable, reliable, and cost-efficient cloud data platforms.  
 I specialize in turning raw, messy, multi-source data into trusted analytics layers and ML-ready pipelines  
 through a mix of modern ELT, streaming systems, and strong distributed systems fundamentals.
 
@@ -24,29 +24,29 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 
 ## Quick Pitch 💬
 🎓 MSCS @ Northeastern University (2022–2024)  
-☁️ Focus: Cloud-Native Data Engineering — streaming(Kafka/Flink), orchestration(Airflow/Dagster), modeling(dbt)  
+☁️ Focus: Cloud-Native Data Engineering
 🔗 Connect: GitHub: wyang10 • LinkedIn: linkedin.com/in/awhy  
 
 ---
 
 ## Highlights 💡
-- Focused on building cloud-native, event-driven systems on AWS / GCP. 
-- Experienced delivering data platforms and analytics pipelines (Spark, Kafka, Airflow + dbt, Snowflake) with data quality and schema governance. 
+- Focused on building cloud-native, event-driven data systems on AWS / GCP cloud platform. 
+- Experienced delivering data platforms and analytics pipelines with data quality and schema governance. 
 - Strong in reliability engineering (idempotency, DLQ/replay, observability), IaC (Terraform), Kubernetes, and CI/CD.
 
 ---
 
 ## Experience 🧩
 **Data Engineer — LumiereX (Jan 2025 – Present)**  
-Built event-driven Serverless ELT ingestion on AWS(API Gateway, Lambda, SQS, glue, step functions), 
-improved data quality layers, and optimized Spark jobs for cost/performance.  
-inplemented in reliability engineering (idempotency, DLQ/replay, observability).
+- Built event-driven Serverless ELT ingestion on AWS(S3, API Gateway, Lambda, SQS, Glue, Step Functions). 
+- Improved data quality layers, and optimized Spark jobs for cost/performance.  
+- Inplemented in reliability engineering (idempotency, DLQ/replay, observability).
 
 
 **Software Engineer Intern — VisionX (Jan 2024 – Jul 2024)**  
-Contributed to a Kafka → Flink streaming pipeline to enable real-time ML scoring for IoT sensory. 
-Focused on modules including schema governance, ingestion reliability, and validation checks.
-Containerized Flink jobs with Docker, deployed to Kubernetes.
+- Contributed to a Kafka → Flink streaming pipeline to enable real-time ML scoring for IoT sensory. 
+- Focused on modules including schema governance, ingestion reliability, and validation checks.
+- Containerized Flink jobs with Docker, deployed to Kubernetes.
 
 ---
 
@@ -86,7 +86,7 @@ Python (Pandas, PySpark) • SQL • Java • Bash
 
 **Cloud & Orchestration**  
 GCP (BigQuery, Dataflow) • AWS (S3, EMR, Glue, Lambda, IAM, Step functions)   
-Airflow • dbt • Docker • Kubernetes • GitHub Actions • Terraform  
+GitHub Actions • Airflow • dbt • Docker • Kubernetes • Terraform  
 
 **Big Data & Storage**  
 Spark • Kafka • Flink • Databricks • Delta Lake 
