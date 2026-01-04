@@ -30,22 +30,23 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 ---
 
 ## Highlights 💡
-- Cloud Data Systems: Airflow • dbt • Snowflake • BigQuery • Terraform  
-- Streaming Architecture: Kafka/Flink • stateful processing • exactly-once pipelines  
-- Distributed Systems: idempotency • back-pressure • partitioning strategies  
-- ELT/ETL Optimization: incremental models • data quality • orchestration best practices  
-- Feature Engineering: online/offline store design • feature pipelines  
+- Focused on building cloud-native, event-driven systems on AWS / GCP. 
+- Experienced delivering data platforms and analytics pipelines (Spark, Kafka, Airflow + dbt, Snowflake) with data quality and schema governance. 
+- Strong in reliability engineering (idempotency, DLQ/replay, observability), IaC (Terraform), Kubernetes, and CI/CD.
 
 ---
 
 ## Experience 🧩
 **Data Engineer — LumiereX (Jan 2025 – Present)**  
-Built core ELT frameworks, improved data quality layers, and optimized Spark jobs for cost/performance.  
-Designed cloud-native data pipelines supporting analytics and ML-driven decisions.
+Built event-driven Serverless ELT ingestion on AWS(API Gateway, Lambda, SQS, glue, step functions), 
+improved data quality layers, and optimized Spark jobs for cost/performance.  
+inplemented in reliability engineering (idempotency, DLQ/replay, observability).
+
 
 **Software Engineer Intern — VisionX (Jan 2024 – Jul 2024)**  
-Implemented scalable ingestion APIs, automated batch ETL workflows,  
-and contributed to the design of ML feature extraction pipelines.
+Contributed to a Kafka → Flink streaming pipeline to enable real-time ML scoring for IoT sensory. 
+Focused on modules including schema governance, ingestion reliability, and validation checks.
+Containerized Flink jobs with Docker, deployed to Kubernetes.
 
 ---
 
@@ -81,15 +82,15 @@ and contributed to the design of ML feature extraction pipelines.
 ## Core Skills ⚡
 
 **Languages & Tools**  
-Python (Pandas, PySpark) • SQL • Java • Scala • Bash  
+Python (Pandas, PySpark) • SQL • Java • Bash  
 
 **Cloud & Orchestration**  
-GCP (BigQuery, Dataflow) • AWS (S3, EMR, Glue, Lambda) • Airflow • Dagster • dbt • Docker  
-Kubernetes • GitHub Actions • Terraform  
+GCP (BigQuery, Dataflow) • AWS (S3, EMR, Glue, Lambda, IAM, Step functions)   
+Airflow • dbt • Docker • Kubernetes • GitHub Actions • Terraform  
 
 **Big Data & Storage**  
-Spark • Flink • Kafka • Databricks • Hive • HDFS  
-Snowflake • Delta Lake • Parquet • dimensional modeling  
+Spark • Kafka • Flink • Databricks • Delta Lake 
+Snowflake • Parquet • SCD Type2 • dimensional modeling  
 
 **Data Quality & CI/CD**  
 Great Expectations • dbt tests • automated lineage • monitoring  
