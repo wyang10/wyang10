@@ -66,7 +66,7 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 
 
 ### 🔷 [airflow_dbt_demo](https://github.com/wyang10/airflow_dbt_demo.git)   
-- A production-ready ELT & Data Quality Framework using **Airflow + dbt + Great Expectations + CICD**.  
+- A production-ready ELT & Data Quality Framework using **Airflow + dbt + Snowflake + Great Expectations + CICD**.  
 - Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
 
 
