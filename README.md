@@ -24,7 +24,7 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 
 ## Quick Pitch 💬
 🎓 MSCS @ Northeastern University (2022–2024)  
-☁️ Focus: Cloud-Native Data Engineering
+☁️ Focus: Cloud-Native Data Engineering   
 🔗 Connect: GitHub: wyang10 • LinkedIn: linkedin.com/in/awhy  
 
 ---
