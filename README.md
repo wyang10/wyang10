@@ -60,12 +60,12 @@ through a mix of modern ELT, streaming systems, and strong distributed systems f
 - CI/CD: GitHub Actions pipelines (Lambda build+deploy, Terraform plan+apply).
   
 
-### 🔷 [Smote Heart Attack ML Pipline](https://github.com/wyang10/Smote-Heart-Attack-ML.git)
+### 🔷 [Smote Heart Attack ML Data Mining Pipline](https://github.com/wyang10/Smote-Heart-Attack-ML.git)
 - End-to-End, Reproducible ML Pipeline Engineered a modular, production-style ML system for predicting in-hospital mortality.
 - Go from raw CSV → cleaned features → baseline models → reproducible CLI pipeline, with optional SMOTE to address severe class imbalance.
 
 
-### 🔷 [Airflow dbt DevOps](https://github.com/wyang10/airflow_dbt_demo.git)   
+### 🔷 [Modern ELT Pipeline with Embedded Data Quality at Scale](https://github.com/wyang10/airflow_dbt_demo.git)   
 - A production-ready ELT & Data Quality Framework using **Airflow + dbt + Snowflake + Great Expectations + CICD**.  
 - Automates data ingestion, transformation, testing, and lineage into a reproducible orchestration system.
 
